@@ -2,15 +2,17 @@
   width: 100%;
   position: sticky;
   top: 0;
-  background: #0f172a;
-  border-bottom: 1px solid rgba(255,255,255,0.08);
-  z-index: 1000;
+
+  background: #020617;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
 }
 
 .header-container {
+
   max-width: 1200px;
   margin: auto;
-  padding: 18px 30px;
+
+  padding: 18px 20px;
 
   display: flex;
   align-items: center;
@@ -22,8 +24,6 @@
 .logo {
   font-size: 20px;
   font-weight: 600;
-  color: white;
-  letter-spacing: 0.5px;
 }
 
 .logo span {
@@ -34,26 +34,61 @@
 
 .nav {
   display: flex;
-  align-items: center;
   gap: 30px;
 }
 
 .nav a {
   text-decoration: none;
-  color: #cbd5e1;
-  font-size: 15px;
-  transition: color 0.2s;
+  color: #cbd5f5;
 }
 
-.nav a:hover {
-  color: white;
+/* BURGER */
+
+.burger {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  gap: 5px;
 }
 
-/* CTA BUTTON */
+.burger span {
+  width: 25px;
+  height: 2px;
+  background: white;
+}
 
-.nav-cta {
-  padding: 8px 16px;
-  border-radius: 6px;
-  background: #2563eb;
-  color: white !important;
+/* MOBILE */
+
+@media (max-width: 900px) {
+
+  .burger {
+    display: flex;
+  }
+
+  .nav {
+
+    position: absolute;
+    top: 70px;
+    left: 0;
+
+    width: 100%;
+
+    background: #020617;
+
+    flex-direction: column;
+    align-items: center;
+
+    gap: 20px;
+
+    padding: 30px 0;
+
+    transform: translateY(-200%);
+    transition: transform 0.3s ease;
+
+  }
+
+  .nav.active {
+    transform: translateY(0);
+  }
+
 }
