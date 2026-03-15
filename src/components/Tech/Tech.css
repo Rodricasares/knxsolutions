@@ -1,0 +1,56 @@
+.tech {
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.tech-title {
+  margin-bottom: 50px;
+}
+
+.tech-slider {
+  overflow: hidden;
+  width: 100%;
+}
+
+.tech-track {
+  display: flex;
+  gap: 80px;
+  width: max-content;
+
+  animation: techScroll 30s linear infinite;
+}
+
+.tech-track img {
+  height: 70px;     /* MÁS GRANDES */
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+
+.tech-track img:hover {
+  opacity: 1;
+}
+
+@keyframes techScroll {
+
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-50%);
+  }
+
+}
+
+.tech-slider {
+  overflow: hidden;
+  width: 100%;
+
+  mask-image: linear-gradient(
+    to right,
+    transparent,
+    black 10%,
+    black 90%,
+    transparent
+  );
+}
