@@ -14,17 +14,13 @@ function Header() {
           KNX<span>Solutions</span>
         </div>
 
-        {/* NAV */}
-
-        <nav className={`nav ${menuOpen ? "active" : ""}`}>
+        <nav className={`nav ${menuOpen ? "nav-open" : ""}`}>
 
           <a href="#services" onClick={() => setMenuOpen(false)}>Services</a>
           <a href="#projects" onClick={() => setMenuOpen(false)}>Projects</a>
           <a href="#contact" onClick={() => setMenuOpen(false)}>Contact</a>
 
         </nav>
-
-        {/* BURGER */}
 
         <div
           className={`burger ${menuOpen ? "active" : ""}`}
