@@ -21,6 +21,7 @@ function Tech() {
 
           {/* duplicados para loop */}
 
+          <img src="/logos/sonos.webp" alt="SONOS"/>
           <img src="/logos/knx.png" alt="KNX"/>
           <img src="/logos/dali.jpg" alt="DALI"/>
           <img src="/logos/airzone.webp" alt="Airzone"/>
