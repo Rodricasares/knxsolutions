@@ -1,0 +1,16 @@
+{
+  "services": "Servicios",
+  "projects": "Proyectos",
+  "contact": "Contacto",
+  "heroTitle": "Integración Domótica KNX",
+  "heroText": "Sistemas de automatización para villas y viviendas inteligentes en Marbella y la Costa del Sol",
+  "ourServices": "Nuestros Servicios",
+  "service1Title": "Integración KNX",
+  "service1Text": "Sistemas completos de automatización KNX para viviendas",
+  "service2Title": "Reparación Domótica",
+  "service2Text": "Diagnóstico y reparación de sistemas de automatización",
+  "service3Title": "Actualización Domótica",
+  "service3Text": "Modernización de viviendas con tecnología smart home",
+  "service4Title": "Mantenimiento",
+  "service4Text": "Mantenimiento y monitorización de instalaciones KNX"
+}

@@ -1,7 +1,7 @@
-import Hero from "../components/Hero";
-import Services from "../components/Services";
+import Hero from "../components/Hero/Hero";
+import Services from "../components/Service/Services";
 import Tech from "../components/Tech/Tech";
-import Footer from "../components/Footer";
+import Footer from "../components/Footer/Footer";
 
 function Home() {
   return (
