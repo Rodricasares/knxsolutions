@@ -33,8 +33,7 @@ function Contact() {
 
   return (
 
-    <section className="contact" id="contact">
-
+   <section className="contact" id="contact" data-aos="fade-up">
       <div className="contact-container">
 
         <h2 className="contact-title">{t("contactTitle")}</h2>

@@ -6,8 +6,7 @@ function Areas() {
     const { t } = useTranslation();
 
     return (
-
-        <section className="areas">
+<section className="areas" data-aos="fade-up">
 
             <div className="areas-container">
 

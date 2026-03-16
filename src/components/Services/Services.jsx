@@ -5,7 +5,7 @@ function Services() {
   const { t } = useTranslation();
 
   return (
-    <section className="services" id="services">
+ <section className="services" id="services" data-aos="fade-up">
       <div className="services-container">
 
         <h2 className="services-title">
@@ -16,7 +16,7 @@ function Services() {
 
           {/* Lighting */}
 
-          <div className="service-card">
+          <div className="service-card" data-aos="fade-up" data-aos-delay="100">
 
             <div className="service-icon">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6">
@@ -33,7 +33,7 @@ function Services() {
 
           {/* Climate */}
 
-          <div className="service-card">
+          <div className="service-card" data-aos="fade-up" data-aos-delay="200">
 
             <div className="service-icon">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6">
@@ -50,7 +50,7 @@ function Services() {
 
           {/* Shutters */}
 
-          <div className="service-card">
+          <div className="service-card" data-aos="fade-up" data-aos-delay="300">
 
             <div className="service-icon">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6">
@@ -67,7 +67,7 @@ function Services() {
 
           {/* Security */}
 
-          <div className="service-card">
+          <div className="service-card" data-aos="fade-up" data-aos-delay="400">
 
             <div className="service-icon">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6">
@@ -84,7 +84,7 @@ function Services() {
 
           {/* Smart Home */}
 
-          <div className="service-card">
+          <div className="service-card" data-aos="fade-up" data-aos-delay="500">
 
             <div className="service-icon">
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6">

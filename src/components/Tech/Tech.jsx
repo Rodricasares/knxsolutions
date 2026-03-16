@@ -6,7 +6,7 @@ function Tech() {
 
     const { t } = useTranslation();
   return (
-    <section className="tech">
+    <section className="tech" data-aos="fade-up">
 
       <h2 className="tech-title">
       {t("logotext")}
