@@ -5,6 +5,7 @@ import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import Services from "./components/Services/Services";
 import Tech from "./components/Tech/Tech";
+import WhatsAppButton from "./components/WhatsAppButton/WhatsAppButton";
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
       <Contact />
       <Tech />
       <Footer />
+      <WhatsAppButton />
     </>
   );
 
