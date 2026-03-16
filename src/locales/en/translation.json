@@ -28,5 +28,13 @@
   "footerNavigation": "Navigation",
   "footerContact": "Contact",
   "areasTitle": "Areas We Serve",
-  "areasDescription": "We provide KNX smart home integration and automation services across the Costa del Sol."
+  "areasDescription": "We provide KNX smart home integration and automation services across the Costa del Sol.",
+  "contactTitle": "Contact Us",
+  "contactDescription": "Tell us about your project or ask for a consultation.",
+  "contactName": "Your name",
+  "contactEmail": "Your email",
+  "contactMessage": "Your message",
+  "contactSend": "Send message",
+  "contactPhone": "Phone",
+  "contactLocation": "Location"
 }

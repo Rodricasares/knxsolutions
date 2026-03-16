@@ -28,5 +28,13 @@
   "footerNavigation": "Navegación",
   "footerContact": "Contacto",
   "areasTitle": "Zonas donde trabajamos",
-  "areasDescription": "Ofrecemos integración domótica KNX y automatización en toda la Costa del Sol."
+  "areasDescription": "Ofrecemos integración domótica KNX y automatización en toda la Costa del Sol.",
+  "contactTitle": "Contacto",
+  "contactDescription": "Cuéntanos tu proyecto o solicita una consulta.",
+  "contactName": "Tu nombre",
+  "contactEmail": "Tu email",
+  "contactMessage": "Tu mensaje",
+  "contactSend": "Enviar mensaje",
+  "contactPhone": "Teléfono",
+  "contactLocation": "Ubicación"
 }

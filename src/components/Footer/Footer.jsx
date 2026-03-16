@@ -49,7 +49,7 @@ function Footer() {
 
           <p>info@knxsolutions.com</p>
 
-          <p>+34 XXX XXX XXX</p>
+          <p>+34 647 979 484</p>
 
         </div>
 
