@@ -3,38 +3,37 @@ import "./Areas.css";
 
 function Areas() {
 
-  const { t } = useTranslation();
+    const { t } = useTranslation();
 
-  return (
+    return (
 
-    <section className="areas">
+        <section className="areas">
 
-      <div className="areas-container">
+            <div className="areas-container">
 
-        <h2 className="areas-title">
-          {t("areasTitle")}
-        </h2>
+                <h2 className="areas-title">
+                    {t("areasTitle")}
+                </h2>
 
-        <p className="areas-description">
-          {t("areasDescription")}
-        </p>
+                <p className="areas-description">
+                    {t("areasDescription")}
+                </p>
 
-        <div className="areas-grid">
+                <div className="areas-grid">
 
-          <div className="area-item">Marbella</div>
-          <div className="area-item">Sotogrande</div>
-          <div className="area-item">Estepona</div>
-          <div className="area-item">Benahavís</div>
-          <div className="area-item">Puerto Banús</div>
-          <div className="area-item">Costa del Sol</div>
+                    <div className="area-item">Marbella</div>
+                    <div className="area-item">Sotogrande</div>
+                    <div className="area-item">Benahavís</div>
+                    <div className="area-item">Puerto Banús</div>
+                    <div className="area-item">Costa del Sol</div>
 
-        </div>
+                </div>
 
-      </div>
+            </div>
 
-    </section>
+        </section>
 
-  );
+    );
 
 }
 
