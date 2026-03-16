@@ -1,11 +1,15 @@
+import { useTranslation } from "react-i18next";
+
 import "./Tech.css";
 
 function Tech() {
+
+    const { t } = useTranslation();
   return (
     <section className="tech">
 
       <h2 className="tech-title">
-        Technologies we work with
+      {t("logotext")}
       </h2>
 
       <div className="tech-slider">

@@ -18,6 +18,24 @@
   margin-bottom: 20px;
 
 }
+.areas-title::after {
+
+  content: "";
+
+  display: block;
+
+  width: 60px;
+  height: 2px;
+
+  margin: 20px auto 0;
+
+  background: linear-gradient(
+    90deg,
+    #06b6d4,
+    #3b82f6
+  );
+
+}
 
 .areas-description {
 
