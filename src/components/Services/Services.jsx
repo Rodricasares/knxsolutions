@@ -11,7 +11,9 @@ function Services() {
 
       <div className="services-container">
 
-        <h2>{t("ourServices")}</h2>
+        <h2 className="services-title">
+          {t("ourServices")}
+        </h2>
 
         <div className="services-grid">
 
