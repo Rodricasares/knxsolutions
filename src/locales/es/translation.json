@@ -13,10 +13,19 @@
   "service3Text": "Modernización de viviendas con tecnología smart home",
   "service4Title": "Mantenimiento",
   "service4Text": "Mantenimiento y monitorización de instalaciones KNX",
-   "footerDescription": "Integración domótica y sistemas de automatización para villas y viviendas en Marbella y la Costa del Sol",
+  "lightingTitle": "Control de Iluminación",
+  "lightingText": "Escenas de iluminación inteligente y automatización KNX.",
+  "climateTitle": "Control Climático",
+  "climateText": "Integración de calefacción, refrigeración y ventilación.",
+  "shuttersTitle": "Persianas y Cortinas",
+  "shuttersText": "Persianas automatizadas para confort y eficiencia.",
+  "securityTitle": "Sistemas de Seguridad",
+  "securityText": "Alarmas, cámaras y control de acceso inteligente.",
+  "automationTitle": "Integración Domótica",
+  "automationText": "Automatización KNX completa adaptada a tu vivienda.",
+  "footerDescription": "Integración domótica y sistemas de automatización para villas y viviendas en Marbella y la Costa del Sol",
   "footerNavigation": "Navegación",
   "footerContact": "Contacto",
   "areasTitle": "Zonas donde trabajamos",
   "areasDescription": "Ofrecemos integración domótica KNX y automatización en toda la Costa del Sol."
-
 }
