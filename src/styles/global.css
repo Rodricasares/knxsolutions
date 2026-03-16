@@ -27,3 +27,11 @@ h1, h2, h3 {
 p {
   line-height: 3.6;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-margin-top: 90px;
+}
