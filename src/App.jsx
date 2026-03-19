@@ -26,9 +26,10 @@ function App() {
       <Hero />
       <Services />
       <Areas />
+       <Tech />
       <Contact />
       <Footer />
-      <Tech />
+     
       <WhatsAppButton />
     </>
   );

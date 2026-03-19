@@ -2,6 +2,7 @@ import { useState } from "react";
 import { useTranslation } from "react-i18next";
 
 import "./Header.css";
+import Logo from "../Logo/Logo";
 
 function Header() {
 
@@ -17,10 +18,9 @@ function Header() {
 
         {/* LOGO */}
 
-        <div className="logo">
-          KNX<span>Solutions</span>
-        </div>
-
+<a href="/">
+  <Logo />
+</a>
         {/* NAVIGATION */}
 
         <nav className={`nav ${menuOpen ? "nav-open" : ""}`}>
