@@ -2,63 +2,92 @@
   "services": "Servicios",
   "projects": "Proyectos",
   "contact": "Contacto",
-  "heroTitle": "Integración Domótica KNX",
-  "heroText": "Integración domótica KNX para villas y viviendas de lujo en Marbella, Sotogrande y la Costa del Sol.",
+
+  "heroTitle": "Domótica KNX para Viviendas de Alto Nivel",
+  "heroText": "Diseñamos e integramos sistemas KNX para villas y viviendas exclusivas en Marbella, Sotogrande y la Costa del Sol. Control total, confort y eficiencia desde una única aplicación.",
+
   "whyTitle": "Por qué elegirnos",
-  "why1": "Especialistas en KNX",
-  "why2": "Servicio en Marbella y Sotogrande",
-  "why3": "Respuesta rápida",
-  "why4": "Experiencia en viviendas de alto nivel",
-  "ourServices": "Smart Home & Servicios de Automatización",
+  "why1": "Especialistas en sistemas KNX de alto nivel",
+  "why2": "Servicio local en Marbella, Sotogrande y alrededores",
+  "why3": "Respuesta rápida y soporte cercano",
+  "why4": "Experiencia en viviendas premium y proyectos exigentes",
+
+  "ourServices": "Soluciones de Domótica y Automatización",
+
   "service1Title": "Integración KNX",
-  "service1Text": "Sistemas completos de automatización KNX para viviendas",
+  "service1Text": "Diseñamos e implementamos sistemas completos KNX que conectan iluminación, climatización, persianas y seguridad en una sola experiencia intuitiva.",
+
   "service2Title": "Reparación Domótica",
-  "service2Text": "Diagnóstico y reparación de sistemas de automatización",
-  "service3Title": "Actualización Domótica",
-  "service3Text": "Modernización de viviendas con tecnología smart home",
+  "service2Text": "Diagnóstico y resolución de fallos en sistemas domóticos existentes, recuperando el control y la estabilidad de tu vivienda.",
+
+  "service3Title": "Actualización de Viviendas",
+  "service3Text": "Modernizamos viviendas existentes con tecnología smart home, mejorando confort, eficiencia energética y valor de la propiedad.",
+
   "service4Title": "Mantenimiento",
-  "service4Text": "Mantenimiento y monitorización de instalaciones KNX",
+  "service4Text": "Servicio continuo de mantenimiento y optimización de sistemas KNX para garantizar un funcionamiento perfecto en todo momento.",
+
   "lightingTitle": "Control de Iluminación",
-  "lightingText": "Sistemas de iluminación inteligente con escenas, regulación y control total mediante KNX.",
+  "lightingText": "Ambientes personalizados con escenas, regulación y automatización para cada momento del día, todo controlado desde tu móvil.",
+
   "climateTitle": "Control Climático",
-  "climateText": "Gestión avanzada de climatización para un máximo confort y eficiencia energética.",
+  "climateText": "Gestión inteligente de climatización para maximizar el confort y reducir el consumo energético de la vivienda.",
+
   "shuttersTitle": "Persianas y Cortinas",
-  "shuttersText": "Automatización de persianas y cortinas integradas con iluminación y climatización.",
+  "shuttersText": "Automatización integrada que mejora el confort térmico, la privacidad y la eficiencia energética.",
+
   "securityTitle": "Sistemas de Seguridad",
-  "securityText": "Soluciones de seguridad inteligentes con alarmas, sensores y control remoto.",
+  "securityText": "Control y supervisión de tu vivienda desde cualquier lugar con sistemas inteligentes de seguridad y acceso.",
+
   "automationTitle": "Domótica KNX",
-  "automationText": "Sistemas completos KNX diseñados, instalados y programados para viviendas de alto nivel.",
+  "automationText": "Soluciones completas KNX diseñadas para ofrecer control total, confort y eficiencia en viviendas de alto nivel.",
+
   "audioTitle": "Sistemas de Sonido",
-  "audioText": "Audio multiroom y cine en casa con sonido de alta calidad en toda la vivienda.",
+  "audioText": "Audio multiroom y cine en casa para disfrutar de una experiencia sonora de alta calidad en toda la vivienda.",
+
   "tvTitle": "Instalación de TV",
-  "tvText": "Instalación profesional de televisores, montaje en pared y gestión limpia del cableado.",
+  "tvText": "Instalación profesional de televisores con acabados limpios, integración estética y gestión oculta del cableado.",
+
   "intercomTitle": "Videoportero IP",
-  "intercomText": "Videoporteros modernos con acceso remoto e integración en el sistema domótico.",
-  "logotext": "Technologias con las que trabajamos",
+  "intercomText": "Control de accesos con videoportero inteligente, integrado y gestionable desde cualquier lugar.",
+
+  "logotext": "Tecnologías con las que trabajamos",
+
   "projectsTitle": "Proyectos Destacados",
-  "project1Title": "Villa KNX",
-  "project1Text": "Automatización completa en Marbella.",
-  "project2Title": "Diseño de Iluminación",
-  "project2Text": "Escenas y control inteligente de iluminación.",
+
+  "project1Title": "Villa KNX en Marbella",
+  "project1Text": "Integración completa de iluminación, climatización y persianas en una villa de alto nivel, ofreciendo control total y máximo confort.",
+
+  "project2Title": "Diseño de Iluminación Inteligente",
+  "project2Text": "Creación de ambientes personalizados mediante escenas de iluminación adaptadas al estilo de vida del cliente.",
+
   "project3Title": "Cine en Casa",
-  "project3Text": "Experiencia audiovisual de alta gama.",
-  "project4Title": "Instalación de Rack y Redes",
-  "project4Text": "Montaje de racks, cableado estructurado e infraestructura de red para viviendas inteligentes.",
-  "project5Title": "Cuadros Eléctricos y Mantenimiento",
-  "project5Text": "Actualización de cuadros eléctricos, mantenimiento KNX y servicio de sistemas domóticos.",
+  "project3Text": "Instalación de sistema audiovisual de alta gama para una experiencia de cine sin salir de casa.",
+
+  "project4Title": "Infraestructura de Red y Rack",
+  "project4Text": "Diseño e instalación de redes y racks profesionales para garantizar conectividad estable en toda la vivienda.",
+
+  "project5Title": "Cuadros Eléctricos y Mantenimiento KNX",
+  "project5Text": "Optimización de cuadros eléctricos y mantenimiento de sistemas domóticos para asegurar fiabilidad y rendimiento.",
+
   "project6Title": "Videoportero IP",
-  "project6Text": "Control de acceso con conexión remota.",
-  "footerDescription": "Integración domótica y sistemas de automatización para villas y viviendas en Marbella y la Costa del Sol",
+  "project6Text": "Sistema de acceso inteligente con control remoto integrado en la domótica de la vivienda.",
+
+  "footerDescription": "Especialistas en integración domótica KNX para villas y viviendas exclusivas en Marbella y la Costa del Sol.",
+
   "footerNavigation": "Navegación",
   "footerContact": "Contacto",
+
   "areasTitle": "Zonas donde trabajamos",
-  "areasDescription": "Ofrecemos integración domótica KNX y automatización en toda la Costa del Sol.",
+  "areasDescription": "Ofrecemos servicios de domótica KNX en Marbella, Estepona, Sotogrande y toda la Costa del Sol.",
+
   "contactTitle": "Contacto",
-  "contactDescription": "Cuéntanos tu proyecto o solicita una consulta.",
+  "contactDescription": "Cuéntanos tu proyecto y te asesoraremos para crear una vivienda más inteligente, eficiente y cómoda.",
+
   "contactName": "Tu nombre",
   "contactEmail": "Tu email",
   "contactMessage": "Tu mensaje",
   "contactSend": "Enviar mensaje",
+
   "contactPhone": "Teléfono",
   "contactLocation": "Ubicación"
 }
