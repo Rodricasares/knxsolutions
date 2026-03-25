@@ -1,0 +1,57 @@
+.whyus {
+
+  padding: 100px 20px;
+
+}
+
+.whyus-container {
+
+  max-width: 900px;
+  margin: auto;
+
+  text-align: center;
+
+}
+
+
+
+.why-grid {
+
+  margin-top: 40px;
+
+  display: grid;
+  gap: 20px;
+
+}
+
+
+.whyTitle::after {
+
+  content: "";
+
+  display: block;
+
+  width: 60px;
+  height: 2px;
+
+  margin: 20px auto 0;
+
+  background: linear-gradient(
+    90deg,
+    #06b6d4,
+    #3b82f6
+  );
+
+}
+
+.why-item {
+
+  font-size: 18px;
+
+  background: rgba(255,255,255,0.03);
+
+  padding: 15px;
+
+  border-radius: 8px;
+
+}

@@ -4,6 +4,14 @@
   "contact": "Contact",
   "heroTitle": "KNX Smart Home Integration",
   "heroText": "Professional KNX smart home integration for luxury villas in Marbella, Sotogrande and Costa del Sol.",
+
+  "whyTitle": "Why Choose Us",
+  "why1": "KNX Specialists",
+  "why2": "Based in Marbella & Sotogrande",
+  "why3": "Fast Response",
+  "why4": "Experience in Luxury Villas",
+
+
   "ourServices": "Smart Home & Automation Services",
   "service1Title": "KNX Integration",
   "service1Text": "Complete KNX automation systems for luxury homes",
@@ -29,7 +37,31 @@
   "tvText": "Professional TV installation, wall mounting and signal distribution with clean cable management.",
   "intercomTitle": "IP Video Intercom",
   "intercomText": "Modern video intercom systems with remote access and integration into your smart home.",
+
+
   "logotext": "Technologies we work with",
+
+
+  "projectsTitle": "Featured Projects",
+
+  "project1Title": "Luxury Villa KNX",
+  "project1Text": "Full smart home automation in Marbella.",
+
+  "project2Title": "Lighting Design",
+  "project2Text": "Smart lighting scenes and control systems.",
+
+  "project3Title": "Home Cinema",
+  "project3Text": "Premium audio and video experience.",
+
+ "project4Title": "Network & Rack Installation",
+  "project4Text": "Professional rack setup, structured cabling and network infrastructure for smart homes.",
+
+  "project5Title": "Electrical Panels & Maintenance",
+  "project5Text": "Electrical panel upgrades, KNX maintenance and smart home system servicing.",
+
+  "project6Title": "Video Intercom",
+  "project6Text": "IP intercom with remote access.",
+
   "footerDescription": "Smart home integration and automation systems for luxury villas in Marbella and Costa del Sol",
   "footerNavigation": "Navigation",
   "footerContact": "Contact",

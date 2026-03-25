@@ -10,6 +10,8 @@ import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import WhatsAppButton from "./components/WhatsAppButton/WhatsAppButton";
 import Tech from "./components/Tech/Tech";
+import WhyUs from "./components/WhyUs/WhyUs";
+import Projects from "./components/Projects/Projects";
 
 function App() {
 
@@ -25,11 +27,13 @@ function App() {
       <Header />
       <Hero />
       <Services />
+      <WhyUs />
       <Areas />
-       <Tech />
+      <Projects />
+      <Tech />
       <Contact />
       <Footer />
-     
+
       <WhatsAppButton />
     </>
   );
